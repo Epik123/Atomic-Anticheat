@@ -13,7 +13,7 @@ Atomic AntiCheat
   Join the discord at https://discord.gg/kNNugFva
 
 
-some items used to spawn in cbe's are beehives, bee nests, and moreAtomic-Anticheat
+some items used to spawn in cbe's are beehives, bee nests, and more Atomic-Anticheat
 cbe is aimed at destroying your realm
 -----------------------------------------------------------------------------------------------
 this anti cheat also has very customizable features, functions, and toggle able commands
